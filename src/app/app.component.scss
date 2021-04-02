@@ -1,0 +1,56 @@
+.typewriter{
+    height: 674px;
+    width: 378px;
+    background: #858585;
+    border-radius: 8px;
+    &__title {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 49px;
+        line-height: 105%;
+        text-align: center;
+        color: #FAFAFA;
+        padding: 5px 15px 0 15px;
+        margin-bottom: 0;
+    }
+    &__color {
+        color:black;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 49px;
+        line-height: 105%;
+        text-align: center;
+        padding: 0 15px 0 15px;
+        margin: 0;
+        text-align: center;
+    }
+    &__header {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 133%;
+        font-variant: small-caps;
+        color: #B0B0B0;
+        text-align: center;
+        margin: 15px;
+    }
+}
+.typewriter2{
+    height: 674px;
+    width: 378px;
+    background: #858585;
+    border-radius: 8px;
+    &__title {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 49px;
+        line-height: 105%;
+        text-align: center;
+        color: #FAFAFA;
+        padding: 50px 25px 50px 25px;
+    }
+}
